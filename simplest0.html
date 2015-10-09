@@ -1,0 +1,118 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h3>四設計二乙</h3>
+    <h3>40323250 詹偉志</h3>		
+</section>
+	
+<section>
+<p>
+<section>
+<p class="fragment highlight-blue">highlight-blue</p>
+<p class="fragment highlight-red">highlight-red</p>
+</section>
+<section>
+ctrl + shift + d  creat a file belong to reveal2
+</section>
+</p>
+				</section>
+
+<section>
+<p>
+
+You can select from different transitions, like: <br>
+<a href="?transition=none#/transitions">None</a> -
+<a href="?transition=fade#/transitions">Fade</a> -
+						
+<a href="?transition=slide#/transitions">Slide</a> -
+						
+<a href="?transition=convex#/transitions">Convex</a> -
+						
+<section id="hw-task-one">
+    <h3>筆記</h3>
+    <hr size="1" align="center" noshade width="100%" color=RED>
+    <p align="left">1. 建立網誌須注意檔案名稱是否衝突</p>
+    <br>
+    <p align="left">2. 測試多筆資料時，新建一個測試倉儲</p>
+    <br>
+    <p align="left">3. solvespace 繪圖 :
+    <br>
+    <p align="left">* 完成伸長填料或除料後按shift + 3 ( 新建一個草圖 )</p>
+    <p align="left">*指定基準面後按  2  </p>
+    <p align="left">*f3 : 等角視圖</p>
+    <p align="left">*f2 : 正視圖</p>
+    <p align="left">*繪製相切圓及使用其他功能時，需注意所繪製的線是否在正確的基準面上，否則會出現錯誤</p>
+</section>
+				
+<a href="?transition=zoom#/transitions">Zoom</a>
+					
+</p>
+				</section>
+
+
+					
+<section>
+<section>
+    <h2>Vertical Slides</h2>
+    <p>Slides can be nested inside of each other.</p>
+    <p>
+    Use the <em>Space</em> key to navigate through all slides.
+    </p>
+    <br>
+    <a href="#" class="navigate-down">
+    <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
+    </a>
+</section>
+<section>
+    <h2>Basement Level 1</h2>
+    <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
+</section>
+						
+<section>
+    <h2>Basement Level 2</h2>
+    <p>That's it, time to go back up.</p>
+    <br>
+    <a href="#/2">
+    <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
+    </a>
+</section>
+						
+</section>
+
+						
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
