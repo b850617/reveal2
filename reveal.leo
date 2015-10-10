@@ -284,14 +284,12 @@
 <v t="40323250.20151009230349.5" a="E"><vh>div class="reveal"</vh>
 <v t="40323250.20151009230349.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20151009230349.7"><vh>投影頁面1 封面</vh></v>
-<v t="40323250.20151010090329.1" a="E"><vh>投影頁面2 筆記</vh>
-<v t="40323250.20151010090333.1"><vh>1</vh></v>
-<v t="40323250.20151010090334.1"><vh>2</vh></v>
-<v t="40323250.20151010090340.1"><vh>3</vh></v>
-<v t="40323250.20151010090342.1"><vh>4</vh></v>
+<v t="40323250.20151010133251.1" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151010133251.2"><vh>1</vh></v>
+<v t="40323250.20151010133251.3"><vh>2</vh></v>
+<v t="40323250.20151010133251.4"><vh>3</vh></v>
+<v t="40323250.20151010133251.5"><vh>4</vh></v>
 </v>
-<v t="40323250.20151009230349.10"><vh>投影頁面4 筆記</vh></v>
-<v t="40323250.20151009230349.11"><vh>投影頁面5 筆記</vh></v>
 <v t="40323250.20151009230349.12"><vh>投影頁面 自評與心得</vh></v>
 <v t="40323250.20151009230349.13"><vh>投影頁面 參考資料</vh></v>
 </v>
@@ -300,7 +298,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151009230438.1" a="E"><vh>@clean simplest2.html</vh>
+<v t="40323250.20151009230438.1"><vh>@clean simplest2.html</vh>
 <v t="40323250.20151009230438.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151009230438.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151009230438.4" a="E"><vh>body 標註</vh>
@@ -320,7 +318,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151009230930.1"><vh>@clean simplest0.html</vh>
+<v t="40323250.20151009230930.1" a="E"><vh>@clean simplest0.html</vh>
 <v t="40323250.20151009230930.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151009230930.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151009230930.4" a="E"><vh>body 標註</vh>
@@ -328,7 +326,7 @@
 <v t="40323250.20151009230930.6" a="E"><vh>div class="slides"</vh>
 <v t="40323250.20151009230930.7"><vh>投影頁面1 封面</vh></v>
 <v t="40323250.20151009230930.8" a="E"><vh>投影頁面2 筆記</vh>
-<v t="40323250.20151009230930.9"><vh>123123</vh></v>
+<v t="40323250.20151010133355.1"><vh>123123</vh></v>
 <v t="40323250.20151009230930.10"><vh>123123</vh></v>
 </v>
 <v t="40323250.20151009230930.11" a="E"><vh>p</vh>
@@ -455,8 +453,6 @@
 @others
 
 </t>
-<t tx="40323250.20151009230349.10"></t>
-<t tx="40323250.20151009230349.11"></t>
 <t tx="40323250.20151009230349.12">&lt;section&gt;
     &lt;h3&gt;自評&lt;/h3&gt;
     &lt;br&gt;
@@ -804,24 +800,19 @@ You can select from different transitions, like: &lt;br&gt;
 				&lt;/section&gt;
 
 </t>
-<t tx="40323250.20151009230930.9">&lt;section&gt;
-&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
-&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="40323250.20151010090329.1">&lt;section id="hw-task-one"&gt;
+<t tx="40323250.20151010133251.1">&lt;section&gt;
 &lt;p&gt;
 @others
 &lt;/p&gt;
 				&lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151010090333.1">&lt;section id="hw-task-one"&gt;
+<t tx="40323250.20151010133251.2">&lt;section&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=YELLOW&gt;
     &lt;p align="left"&gt;1. 如果從學校電腦抓12G的檔案 , leo 套件要自己下載 ,安裝到 site- package 裡面。 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動  程序 )。&lt;/p&gt;
+    &lt;p align="left"&gt;2. launchLeo.py 和 start 可以從老師提供的壓縮檔中找到 , 複製到相同路徑即可 ( start 多個啟動程序 )。&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;3. 檢查分支 : git bramch  &lt;/p&gt;
     &lt;p align="left"&gt; 新建分支 : git branch (分支名稱)  &lt;/p&gt;
@@ -833,7 +824,7 @@ You can select from different transitions, like: &lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151010090334.1">&lt;section id="hw-task-two"&gt;
+<t tx="40323250.20151010133251.3">&lt;section&gt;
     &lt;p align="left"&gt;6. dir  : 檢察所屬分支的檔案數量和狀況&lt;/p&gt;
     &lt;br&gt;
     &lt;p align="left"&gt;7. git config (--global) user.name  .... , 括弧內若省略 , 此次僅為單
@@ -849,29 +840,36 @@ You can select from different transitions, like: &lt;br&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151010090340.1">&lt;section id="hw-task-three"&gt;
+<t tx="40323250.20151010133251.4">&lt;section&gt;
     &lt;p align="left"&gt;12. 如果leo出現問題無法開啟 , 試著將 home 底下的 .leo 資料夾刪除
     &lt;br&gt;
-    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和複製到 .git 檔 或  路徑錯誤 或 者其他問題
+    &lt;p align="left"&gt;13. 如果推回遠端有問題 , 可能和 .git 檔 、  路徑錯誤 或 者其他問題
     &lt;br&gt;
-    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯老師檔案 等原因 &lt;/p&gt;
-        &lt;br&gt;
-    &lt;p align="left"&gt;15. 老師的github倉儲放的資料都相同 , 只是版次不同&lt;/p&gt;
+    &lt;p align="left"&gt;14. 無法正常出現分頁頁面( io ) 網址的原因 : github 尚未進行 信箱認證 、 抓錯檔案等原因 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;16. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
+    &lt;p align="left"&gt;15. 如果將老師的檔案推到自己倉儲的 master , 遠端頁面顯示404  File not found , 但是推到 gh-pages 卻會顯示網頁 , 代表 github 的 gh-pages  能支援靜態網站 &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;17. 分支如果有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
+    &lt;p align="left"&gt;16. 如果分支有新增資料，要先展開、提交之後才能再切換分支&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;17. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151010090342.1">&lt;section id="hw-task-four"&gt;
-    &lt;p align="left"&gt;18. git rm 檔案名稱.副檔名 ( 移除檔案在近端動作即可 ) &lt;/p&gt;
+<t tx="40323250.20151010133251.5">&lt;section&gt;
+    &lt;p align="left"&gt;18. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;19. git rm 資料夾名稱 -r 可刪除資料夾( 含內部文件 ) &lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;20. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
+    &lt;p align="left"&gt;19. git push origin :分支名稱 ( 刪除github 分支 )&lt;/p&gt;
 &lt;/section&gt;
 				
+</t>
+<t tx="40323250.20151010133355.1">&lt;section&gt;
+&lt;p class="fragment highlight-blue"&gt;highlight-blue&lt;/p&gt;
+&lt;p class="fragment highlight-red"&gt;highlight-red&lt;/p&gt;
+&lt;p&gt;section data-background="#ff0000" &lt;/p&gt;
+&lt;p&gt;"#ff0000" = RED&lt;/p&gt;
+&lt;p&gt;"#bb00bb" = PURPLE&lt;/p&gt;
+&lt;p&gt;"#00ffff" = 淡藍色
+&lt;/section&gt;
 </t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
