@@ -554,7 +554,11 @@
 &lt;/section&gt;
 				
 </t>
-<t tx="40323250.20151009230438.11"></t>
+<t tx="40323250.20151009230438.11">&lt;section id="hw-task-three"&gt;
+    &lt;p align="left"&gt;8. 建立新平面 : 點選所需要的平面上的 2 條線 ( 建立平面 ) 之後 點選一個基準點 
+後 shift + w   ( new group 底下的 sketch in new workplane )
+    &lt;br&gt;
+&lt;/section&gt;</t>
 <t tx="40323250.20151009230438.12">&lt;section&gt;
     &lt;h3&gt;自評&lt;/h3&gt;
     &lt;br&gt;
