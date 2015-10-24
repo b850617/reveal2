@@ -30,6 +30,7 @@
 <v t="40323250.20151009230453.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="40323250.20151016090544.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="40323250.20151023190140.1"><vh>@edit 2015cphww6.md</vh></v>
+<v t="40323250.20151024173034.1"><vh>@edit 2015cphww7.md</vh></v>
 <v t="40323250.20151009230819.1"><vh>@edit 2015cphwtest.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
@@ -341,7 +342,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151023190253.1" a="E"><vh>@clean simplest4.html</vh>
+<v t="40323250.20151023190253.1"><vh>@clean simplest4.html</vh>
 <v t="40323250.20151023190253.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151023190253.3"><vh>html 標註</vh>
 <v t="40323250.20151023190253.4" a="E"><vh>body 標註</vh>
@@ -356,6 +357,24 @@
 </v>
 </v>
 <v t="40323250.20151023190253.12"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="40323250.20151024173101.1" a="E"><vh>@clean simplest5.html</vh>
+<v t="40323250.20151024173101.2"><vh>檔案說明</vh></v>
+<v t="40323250.20151024173101.3" a="E"><vh>html 標註</vh>
+<v t="40323250.20151024173101.4" a="E"><vh>body 標註</vh>
+<v t="40323250.20151024173101.5" a="E"><vh>div class="reveal"</vh>
+<v t="40323250.20151024173101.6" a="E"><vh>div class="slides"</vh>
+<v t="40323250.20151024173101.7"><vh>投影頁面1 封面</vh></v>
+<v t="40323250.20151024173101.8" a="E"><vh>投影頁面2 筆記</vh>
+<v t="40323250.20151024173101.9"><vh>1</vh></v>
+<v t="40323250.20151024173101.10"><vh>2</vh></v>
+</v>
+<v t="40323250.20151024173101.11"><vh>投影頁面 自評與心得</vh></v>
+</v>
+</v>
+<v t="40323250.20151024173101.12"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -1126,6 +1145,96 @@ You can select from different transitions, like: &lt;br&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
     &lt;p align="left"&gt; PTC Creo Parametric  實際上就是 Pro-ENGINEER的升級，且也出到3.0版本了，內容包含了 3套模組，更容易建模，不但能會入AutoCad工程圖，且3.0版本可輸出成SW檔案，是一套很熱門的繪圖軟體。&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="40323250.20151024173101.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="40323250.20151024173101.10">&lt;section&gt;
+&lt;p align="left"&gt;&lt;/p&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151024173101.11">&lt;section&gt;
+    &lt;h3&gt;心得與自評&lt;/h3&gt;
+    &lt;br&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p&gt;評分 :  &lt;/p&gt; 
+&lt;/section&gt;		
+</t>
+<t tx="40323250.20151024173101.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="40323250.20151024173101.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="40323250.20151024173101.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="40323250.20151024173101.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="40323250.20151024173101.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323250.20151024173101.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="40323250.20151024173101.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;p&gt;&lt;font size="5" face="Arial"&gt;&lt;marquee border="0"&gt;版本於 2015 / 10 / 26 更新&lt;/marquee&gt;&lt;/font&gt;&lt;/p&gt;
+    &lt;br&gt;
+    &lt;br&gt;
+    &lt;h2&gt;四設計二乙&lt;/h2&gt;
+    &lt;br&gt;
+    &lt;h3&gt;40323250 詹偉志&lt;/h3&gt;
+    &lt;h3&gt;第七週作業&lt;/h3&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="40323250.20151024173101.8">&lt;section&gt;
+&lt;p&gt;
+@others
+&lt;/p&gt;
+				&lt;/section&gt;
+				
+</t>
+<t tx="40323250.20151024173101.9">&lt;section id="hw-task-one"&gt;
+    &lt;h3&gt;筆記&lt;/h3&gt;
+    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
+    &lt;p align="left"&gt; &lt;/p&gt;
+    &lt;br&gt;
 
 &lt;/section&gt;</t>
 <t tx="amd.20150913232631.1"></t>
