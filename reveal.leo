@@ -20,7 +20,7 @@
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
 <v t="amd.20151009065821.1"><vh>@edit README.md</vh></v>
-<v t="40323250.20151009230253.1"><vh>@auto ..\2015cpHW\index.html</vh></v>
+<v t="40323250.20151009230253.1" a="E"><vh>@auto ..\2015cpHW\index.html</vh></v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
@@ -280,7 +280,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151009230349.1" a="E"><vh>@clean simplest.html</vh>
+<v t="40323250.20151009230349.1"><vh>@clean simplest.html</vh>
 <v t="40323250.20151009230349.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151009230349.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151009230349.4" a="E"><vh>body 標註</vh>
