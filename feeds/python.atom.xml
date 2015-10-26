@@ -42,7 +42,7 @@
 &lt;title&gt;帝都大學&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;audio controls autoplay loop&gt;
+    &lt;audio controls pause loop&gt;
         &lt;source src="https://copy.com/ZmDRmsoyRTEkmfUd"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
@@ -90,7 +90,7 @@
 &lt;title&gt;kevin kern - Through the Arbor&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;audio controls autoplay loop&gt;
+    &lt;audio controls pause loop&gt;
         &lt;source src="https://copy.com/rIjzBVdsJXu2H82u"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
@@ -120,16 +120,7 @@
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
-&lt;hr&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第二週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;!-- hitwebcounter Code START --&gt;
-
-&lt;p&gt;&lt;a href="http://www.hitwebcounter.com" target="_blank"&gt;
-&lt;img src="http://hitwebcounter.com/counter/counter.php?page=6210729&amp;style=0009&amp;nbdigits=5&amp;type=page&amp;initCount=0" title="" Alt=""   border="0" &gt;
-&lt;/a&gt;                                        &lt;br/&gt;
-                                        &lt;!-- hitwebcounter.com --&gt;&lt;a href="http://www.hitwebcounter.com" title="Stats Of Hits" 
-                                        target="_blank" style="font-family: Geneva, Arial, Helvetica, sans-serif; 
-                                        font-size: 10px; color: #848387; text-decoration: underline ;"&gt;&lt;strong&gt;Stats Of Hits                                        &lt;/strong&gt;
-                                        &lt;/a&gt;   &lt;/p&gt;
-&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;hr&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 第二週</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-27T20:41:00+08:00</updated><author><name>b850617</name></author><id>tag:coursemdetw.github.io,2015-09-27:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -141,7 +132,7 @@
 &lt;title&gt;Eight melodies - mother  piano version&lt;/title&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;audio controls autoplay loop&gt;
+    &lt;audio controls pause loop&gt;
         &lt;source src="https://copy.com/HrxeQ92VMmnkAXlg"&gt;
     &lt;/audio&gt;
 &lt;/body&gt;
