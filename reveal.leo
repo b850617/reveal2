@@ -1163,14 +1163,14 @@ You can select from different transitions, like: &lt;br&gt;
     &lt;br&gt;
     &lt;p&gt;這一週開始將自己的各週作業導入班上倉儲，出錯機率提高了八成至九成，如果檔案建置不完全還可以補救，但是reveal.leo檔案如果無法正常開啟，我也不知道該如何是好了，目前的對策也只有備份資料而已，對於"幫助"班上理解倉儲的營運好像是目前的首要目標&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 : 尚未完成 &lt;/p&gt; 
-&lt;/section&gt;		
+    &lt;p&gt;評分 : 85 &lt;/p&gt; 
+&lt;/section&gt;	
+	
 &lt;section&gt;
     &lt;h3&gt;相關連結&lt;/h3&gt;
     
     &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://clie.ws/bbs/?app=blog&amp;blogid=15&amp;showentry=496&amp;"&gt;HTML 語法 Table 表格標籤語法&lt;/a&gt;
    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.webtech.tw/info.php?tid=HTML+%E8%A1%A8%E6%A0%BC%E6%AC%84%E4%BD%8D%E5%85%A7%E6%96%87%E5%AD%97%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD%E8%88%87%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD"&gt;HTML 表格欄位內文字水平置中與垂直置中&lt;/a&gt;
-
 
 
 &lt;/section&gt;
