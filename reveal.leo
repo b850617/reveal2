@@ -14,13 +14,13 @@
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
 <v t="amd.20151009065821.1"><vh>@edit README.md</vh></v>
-<v t="40323250.20151009230253.1" a="E"><vh>@auto ..\2015cpHW\index.html</vh></v>
+<v t="40323250.20151009230253.1"><vh>@auto ..\2015cpHW\index.html</vh></v>
 <v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
@@ -361,7 +361,7 @@
 </v>
 </v>
 </v>
-<v t="40323250.20151024173101.1"><vh>@clean simplest5.html</vh>
+<v t="40323250.20151024173101.1" a="E"><vh>@clean simplest5.html</vh>
 <v t="40323250.20151024173101.2"><vh>檔案說明</vh></v>
 <v t="40323250.20151024173101.3" a="E"><vh>html 標註</vh>
 <v t="40323250.20151024173101.4" a="E"><vh>body 標註</vh>
@@ -1154,17 +1154,27 @@ You can select from different transitions, like: &lt;br&gt;
 
 </t>
 <t tx="40323250.20151024173101.10">&lt;section&gt;
-&lt;p align="left"&gt;&lt;/p&gt;
+&lt;p align="left"&gt;2.如果是從第一版的網誌co檔案過來，投影片的@edit 節點如果有從屬資料，要改成@clean才能產生相對應的網頁格式&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
 <t tx="40323250.20151024173101.11">&lt;section&gt;
     &lt;h3&gt;心得與自評&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這一週開始將自己的各週作業導入班上倉儲，出錯機率提高了八成至九成，如果檔案建置不完全還可以補救，但是reveal.leo檔案如果無法正常開啟，我也不知道該如何是好了，目前的對策也只有備份資料而已，對於"幫助"班上理解倉儲的營運好像是目前的首要目標&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;評分 :  &lt;/p&gt; 
+    &lt;p&gt;評分 : 尚未完成 &lt;/p&gt; 
 &lt;/section&gt;		
+&lt;section&gt;
+    &lt;h3&gt;相關連結&lt;/h3&gt;
+    
+    &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://clie.ws/bbs/?app=blog&amp;blogid=15&amp;showentry=496&amp;"&gt;HTML 語法 Table 表格標籤語法&lt;/a&gt;
+   &lt;li&gt;&lt;p align="left"&gt;&lt;a href="http://www.webtech.tw/info.php?tid=HTML+%E8%A1%A8%E6%A0%BC%E6%AC%84%E4%BD%8D%E5%85%A7%E6%96%87%E5%AD%97%E6%B0%B4%E5%B9%B3%E7%BD%AE%E4%B8%AD%E8%88%87%E5%9E%82%E7%9B%B4%E7%BD%AE%E4%B8%AD"&gt;HTML 表格欄位內文字水平置中與垂直置中&lt;/a&gt;
+
+
+
+&lt;/section&gt;
+				
 </t>
 <t tx="40323250.20151024173101.12">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
@@ -1234,10 +1244,11 @@ You can select from different transitions, like: &lt;br&gt;
 <t tx="40323250.20151024173101.9">&lt;section id="hw-task-one"&gt;
     &lt;h3&gt;筆記&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt; &lt;/p&gt;
+    &lt;p align="left"&gt;1. 對於 solvespace 與 creo 或是其他繪圖軟體而言，老師說的沒錯，一個才2.3MB大小的軟體，功能上確實不足SW和creo這等知名軟體，但在另一方面solvespace的可攜性卻勝出一大截，再需要繪圖軟體之際，又不需要太多功能，這時候solvespace就派上用場了，基本功能都有，且在繪圖上也很方便，就只差檔案能否和其他軟體互相支援了&lt;/p&gt;
     &lt;br&gt;
 
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
