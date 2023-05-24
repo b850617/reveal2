@@ -13,8 +13,7 @@ Summary: 作業與心得
 [作業一投影片](simplest0.html){:target="_blank"}
 
 
-<br>
-<p>test line </p>
+
 
 <!DOCTYPE html>
 <html>
