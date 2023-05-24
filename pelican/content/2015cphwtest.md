@@ -12,31 +12,13 @@ Summary: 作業與心得
 
 [作業一投影片](simplest0.html){:target="_blank"}
 
-使用 H1 標題
-============
 
-<br>
-[連到 Google](http://www.google.com){:target="_blank"}
-<br>
-
-<br>
-[連到 Google](http://www.google.com){:target="_self"}
-<br>
-<br>
-<hr>
 <br>
 <p>test line </p>
 
 <!DOCTYPE html>
 <html>
-<head>
-<title>蟲師 -  春と嘯く</title>
-</head>
-<body>
-    <audio controls autoplay>
-        <source src="https://copy.com/uw3nr4icUyUjbVgm">
-    </audio>
-</body>
+
 </html>
 
 
